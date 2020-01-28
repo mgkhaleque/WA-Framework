@@ -79,7 +79,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="20" />
     <option name="y" value="23" />
     <option name="width" value="1400" />
@@ -143,7 +143,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="20" y="23" width="1400" height="798" extended-state="1" />
+    <frame x="20" y="23" width="1400" height="798" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20471281" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
